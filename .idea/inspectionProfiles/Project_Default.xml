@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="alembic" />
+          <option value="amqp" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="asyncpg" />
+          <option value="bcrypt" />
+          <option value="billiard" />
+          <option value="black" />
+          <option value="celery" />
+          <option value="click-didyoumean" />
+          <option value="click-plugins" />
+          <option value="click-repl" />
+          <option value="dnspython" />
+          <option value="email-validator" />
+          <option value="fastapi" />
+          <option value="fastapi-cache2" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="iniconfig" />
+          <option value="kombu" />
+          <option value="nodeenv" />
+          <option value="packaging" />
+          <option value="passlib" />
+          <option value="pathspec" />
+          <option value="pendulum" />
+          <option value="platformdirs" />
+          <option value="pluggy" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pyright" />
+          <option value="pytest" />
+          <option value="pytest-asyncio" />
+          <option value="python-dotenv" />
+          <option value="pytokens" />
+          <option value="redis" />
+          <option value="ruff" />
+          <option value="starlette" />
+          <option value="typing-inspection" />
+          <option value="tzdata" />
+          <option value="tzlocal" />
+          <option value="uvicorn" />
+          <option value="vine" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
